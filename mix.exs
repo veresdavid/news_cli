@@ -14,7 +14,7 @@ defmodule NewsCli.MixProject do
 
   def escript do
     [
-      main_module: NewsCli.Cli
+      main_module: NewsCli
     ]
   end
 
