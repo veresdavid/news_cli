@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1001,
+    "title": "AI Revolutionizes Healthcare",
+    "summary": "Artificial Intelligence is making breakthroughs in diagnostics, patient care, and treatment planning."
+  },
+  {
+    "id": 1002,
+    "title": "Quantum Computing: The Next Frontier",
+    "summary": "Quantum computers are pushing the boundaries of what's possible in cryptography, materials science, and data analysis."
+  },
+  {
+    "id": 1003,
+    "title": "5G Networks Transform Connectivity",
+    "summary": "The rollout of 5G is accelerating, promising faster speeds, lower latency, and massive IoT integration."
+  },
+  {
+    "id": 1004,
+    "title": "SpaceX Unveils Starship Updates",
+    "summary": "SpaceX shared progress on its reusable spacecraft, aiming to make interplanetary travel a reality."
+  }
+]

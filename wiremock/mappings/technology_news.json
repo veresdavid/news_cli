@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/news/category/technology"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "technology_news.json"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/news/country/us"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "united_states_news.json"
+  }
+}

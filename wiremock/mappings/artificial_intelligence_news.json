@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/news?keywords=artificial,intelligence"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "artificial_intelligence_news.json"
+  }
+}
